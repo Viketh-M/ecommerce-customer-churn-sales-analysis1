@@ -1,0 +1,9 @@
+metric,value
+total_sales,15738592.37
+total_orders,98202.0
+unique_customers,94986.0
+average_order_value,160.27
+churn_rate,0.602
+avg_clv_historical,165.69
+avg_clv_projected,135.08
+churn_window_days,180.0
