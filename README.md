@@ -76,6 +76,14 @@ project/
 - kpi_summary: reference KPIs for dashboard sanity checks
 
 ---
+##  Dashboard preview
+
+![Executive Dashboard](dashboard/Executive%20Dashboard.jpeg)
+![Customer Retention Analytics](dashboard/Customer%20Retention%20Analytics.jpeg)
+
+---
+
+
 
 ## How RFM, churn and CLV are computed (summary)
 
