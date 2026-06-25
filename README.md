@@ -1,4 +1,4 @@
-# E-Commerce Customer Churn & Sales Analysis
+# E Commerce Customer Churn & Sales Analysis
 
 Power BI and Python-based analytics work for customer churn prediction, RFM segmentation, CLV analysis, retention analytics, and sales performance monitoring using e-commerce transaction data.
 
